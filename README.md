@@ -35,3 +35,12 @@ UC2 ..> UC6 : <<extend>>
 
 ![image](https://github.com/user-attachments/assets/3c00cd6b-a55e-4f50-80ec-e13b044d16f8)
 
+2.Describe, haciendo uso de la plantilla, al menos el caso de uso "Sacar dinero", con las interacciones que tiene entre el actor y el caso de uso.
+
+El actor puede validarse, transferir o ingresar dinero, lo cual le obligaria a validarse. Y para sacar dinero, sino tiene saldo insuficiente o excede el limite diario, se valida tambien
+
+3. Responde a las siguiente pregunta:¿Para qué me sirve tener/realizar un diagrama de casos de uso modelando el sistema que se representa? ¿Qué aporta?
+
+Visualizar interacciones entre actores y el sistema
+Identificar funcionalidades clave y errores
+Guiar el desarrollo
